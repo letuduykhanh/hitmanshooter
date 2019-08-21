@@ -1,4 +1,4 @@
-# hitmanshooter
+# Hitman shooter
 
 ![Image description](https://github.com/letuduykhanh/hitmanshooter/blob/master/screenshots/Page-29-Image-54.jpg)
 
